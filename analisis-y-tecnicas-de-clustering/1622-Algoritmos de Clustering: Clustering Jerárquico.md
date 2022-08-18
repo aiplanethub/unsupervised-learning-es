@@ -42,6 +42,12 @@ La agrupación jerárquica implica la creación de clusters que tienen un orden 
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_ba5bd2749ceb449a90922f2984673106.png)
 
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
+
+---
+Aglomerativo
+Divisivo
+---
 
 
 
@@ -109,6 +115,11 @@ Cuando los centroides se mueven con nuevas observaciones, es posible que los clu
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_15eea9a4636844d68da9ee85e4bfa06d.png)
 
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
+
+---
+Enlance Centroide
+---
 
 
 ## Clustering Jerárquico
