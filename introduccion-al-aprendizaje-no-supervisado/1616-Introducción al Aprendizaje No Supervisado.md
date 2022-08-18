@@ -99,4 +99,7 @@ El aprendizaje no supervisado se utiliza ampliamente para 2 cosas en el aprendiz
 2. **Reducción de la dimensionalidad** - técnicas que reducen el número de variables de entrada en un conjunto de datos.
 
 
-![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_b8f7710fc013461aaaeb8e28a9f14263.png)Las traducciones exactas de la imagen anterior se pueden encontrar a continuaciónLas traducciones exactas de la imagen anterior se pueden encontrar a continuación
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_b8f7710fc013461aaaeb8e28a9f14263.png)
+
+
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuaciónLas traducciones exactas de la imagen anterior se pueden encontrar a continuación
