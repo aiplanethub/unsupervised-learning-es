@@ -108,3 +108,141 @@ El enlace-centroide es la distancia entre los centroides de dos clusters.
 Cuando los centroides se mueven con nuevas observaciones, es posible que los clusters más pequeños sean más similares al nuevo cluster más grande que a sus clusters individuales, causando una inversión en el dendrograma. Este problema no se plantea en los otros métodos de vinculación porque los clusters que se fusionan siempre serán más similares a sí mismos que al nuevo cluster más grande.
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_15eea9a4636844d68da9ee85e4bfa06d.png)
+
+
+
+## Clustering Jerárquico
+
+
+
+
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7xHsRkOdVwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+### Pasos para realizar el Clustering Jerárquico (Aglomerativo)
+
+* Al principio, trate cada punto de datos como un cluster. Por lo tanto, el número de clusters al inicio será K, donde K es un número entero que representa el número de puntos de datos.
+
+
+
+
+
+
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_4b33855f89fe4e328773a8e0dd9de344.png)
+
+
+
+
+
+* Formar un cluster uniendo los dos puntos de datos más cercanos, lo que resulta en K-1 clusteres.
+* Formar más clusters uniendo los dos clusters más cercanos dando como resultado K-2 clusters.
+* Repita los tres pasos anteriores hasta que se forme un cluster grande.
+
+
+
+
+
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_a1ea2b1f30ad4b0780651d5a7eadce5a.png)
+
+
+
+
+
+* Una vez que se ha formado un solo cluster, se utilizan dendrogramas para dividir en múltiples clusteres dependiendo del problema.
+
+### Elección del número de clusters en la agrupación jerárquica
+
+* Para obtener el número de clusters para la agrupación jerárquica, hacemos uso de un concepto impresionante llamado Dendrograma.
+* Un dendrograma es un diagrama en forma de árbol que registra las secuencias de fusiones o divisiones.
+* Tomando un ejemplo de los siguientes puntos de datos:
+
+
+
+
+
+
+
+
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_079f220dd8524e799c5b53253cb6268e.png)
+
+
+
+
+
+
+
+
+
+* Los dendrogramas para nuestros puntos de datos tendrán un aspecto como el siguiente.
+
+
+
+
+
+
+
+
+
+
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_b611725456dc4ac3baed069256fdd3bd.png)
+
+
+
+
+
+
+
+
+
+* Podemos visualizar claramente los pasos de la agrupación jerárquica.
+* A mayor distancia de las líneas verticales en el dendrograma, mayor es la distancia entre esos clusters.
+* Una vez que se forma un gran cluster, se selecciona la distancia vertical más larga sin que pase ninguna línea horizontal y se traza una línea horizontal a través de ella. **El número de líneas verticales que pasa esta línea horizontal recién creada es igual al número de clusters**. Observe el siguiente gráfico:
+
+
+
+
+
+
+
+
+
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_f1bdb576c3524f36b88d3e9fdbbdcb31.png)
+
+
+
+
+
+
+
+* Aquí, el número de clusters = 2 ya que la línea roja pasa por 2 puntos.
+* Básicamente, la línea horizontal es un umbral, que define la distancia mínima necesaria para ser un cluster independiente. Si trazamos una línea más abajo, el umbral requerido para ser un nuevo cluster disminuirá y se formarán más clusters como se puede ver en la imagen de abajo:
+
+
+
+
+
+
+
+
+
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_bd1be0344ea44d59bd73426ba8bb57c2.png)
+
+
+
+* La línea horizontal pasa por cuatro líneas verticales dando lugar a cuatro clusters: cluster de los puntos 6,7,8 y 10, cluster de los puntos 3,2,4 y 1, y los puntos 9 y 5 serán tratados como clusters de un solo punto.
+
+### Notebooks
+
+Introducción al Clustering Jerárquico: [https://dphi.tech/notebooks/1323/gunnika/introduction-to-hierarchical-clustering](https://dphi.tech/notebooks/1323/gunnika/introduction-to-hierarchical-clustering)
+
+Tipos de Algoritmos de Clustering Jerárquico: [https://dphi.tech/notebooks/1324/gunnika/types-of-hierarc](https://dphi.tech/notebooks/1324/gunnika/types-of-hierarchical-clustering)[hical-clustering](https://dphi.tech/notebooks/1324/gunnika/types-of-hierarchical-clustering)
