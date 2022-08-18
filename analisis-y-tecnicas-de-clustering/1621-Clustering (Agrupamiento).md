@@ -80,13 +80,16 @@ El clustering se utiliza en casi todos los campos.
 
 Hay muchas más aplicaciones del clustering, como la agrupación de documentos y el análisis de redes sociales. Estas aplicaciones son relevantes en casi todos los sectores, por lo que el clustering es una habilidad valiosa para los profesionales que trabajan con datos en cualquier campo.
 
-A continuación se ofrece una lista detallada de aplicaciones. Tómese su tiempo para explorarla: [https://en.wikipedia.org/wiki/Cluster\_analysis#Applications](https://en.wikipedia.org/wiki/Cluster\_analysis#Applications)
+A continuación se ofrece una lista detallada de aplicaciones. Tómese su tiempo para explorarla: 
+[https://es.wikipedia.org/wiki/An%C3%A1lisis_de_grupos](https://es.wikipedia.org/wiki/An%C3%A1lisis_de_grupos)
+
+
 
 ## Visión General de las Técnicas de Clustering
 
 Puede realizar la agrupación utilizando muchos enfoques diferentes, tantos, de hecho, que hay categorías enteras de algoritmos de agrupación. Cada una de estas categorías tiene sus propios puntos fuertes y débiles. Esto significa que ciertos algoritmos de clustering resultarán en asignaciones de cluster más naturales dependiendo de los datos de entrada.
 
-La selección de un algoritmo de clustering apropiado para su conjunto de datos es a menudo difícil debido al número de opciones disponibles. Algunos factores importantes que afectan a esta decisión son
+La selección de un algoritmo de clustering apropiado para su conjunto de datos es a menudo difícil debido al número de opciones disponibles. Algunos factores importantes que afectan a esta decisión son:
 
 * las características de los clusters,
 * características del conjunto de datos,
