@@ -32,16 +32,12 @@ Se llaman algoritmos de aprendizaje no supervisado porque, a diferencia del apre
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_e0280b0312804d37896dbdc73468c24a.png)
 
-
-
-A
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
 
 ---
-A
+Aprendizaje Supervisado
+Aprendizaje No Supervisado
 ---
-
-
-
 
 A la izquierda (un problema de clasificación), podemos ver claramente la distinción entre los puntos de datos. Son círculos azules o cruces rojas. Estas son las etiquetas de los datos. En este caso se utilizará el aprendizaje supervisado.
 
@@ -67,7 +63,16 @@ La segmentación del mercado es la práctica de dividir a los consumidores en gr
 
 Por ejemplo, un fabricante de vehículos que venda una marca de coches de lujo de gama alta probablemente se dirigirá a un público con mayores ingresos.
 
-(https://dphi-live.s3.amazonaws.com/media_uploads/image_96c50459c71244ac9725a5e3574ebb0d.png)
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_96c50459c71244ac9725a5e3574ebb0d.png)
+
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
+
+---
+Proyecto de Ciencia de Datos - Segmentación de clientes
+Identificar el potencial de clientes base para vender el producto
+Implementar Algoritmos de Clustering para agrupar clientes base
+Venta de productos a los grupos identificados de clientes
+---
 
 
 **Análisis de redes sociales (SNA)**
@@ -96,10 +101,16 @@ Por ejemplo, los sitios de redes sociales como Facebook utilizan el SNA para ide
 El aprendizaje no supervisado se utiliza ampliamente para 2 cosas en el aprendizaje automático:
 
 1. **Clustering** - trata de encontrar una estructura en una colección de datos sin etiquetar.
-2. **Reducción de la dimensionalidad** - técnicas que reducen el número de variables de entrada en un conjunto de datos.
+2. **Reducción de dimensionalidad** - técnicas que reducen el número de variables de entrada en un conjunto de datos.
 
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_b8f7710fc013461aaaeb8e28a9f14263.png)
 
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
 
-Las traducciones exactas de la imagen anterior se pueden encontrar a continuaciónLas traducciones exactas de la imagen anterior se pueden encontrar a continuación
+---
+Clustering
+Los datos se dividen en clusters A, B y C
+Reducción de Dimensionalidad
+Los datos se reducen de 2 dimensiones (2D) a 1 dimensión (1D)
+---
