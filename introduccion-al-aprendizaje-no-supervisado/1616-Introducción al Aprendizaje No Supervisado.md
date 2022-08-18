@@ -34,6 +34,15 @@ Se llaman algoritmos de aprendizaje no supervisado porque, a diferencia del apre
 
 
 
+A
+
+---
+A
+---
+
+
+
+
 A la izquierda (un problema de clasificación), podemos ver claramente la distinción entre los puntos de datos. Son círculos azules o cruces rojas. Estas son las etiquetas de los datos. En este caso se utilizará el aprendizaje supervisado.
 
 A la derecha, todos los puntos de datos se parecen. En este caso se utilizará el aprendizaje no supervisado. Encontrar alguna estructura en estos datos podría ser como crear 2 grupos mostrados por los círculos rojos.
@@ -58,9 +67,7 @@ La segmentación del mercado es la práctica de dividir a los consumidores en gr
 
 Por ejemplo, un fabricante de vehículos que venda una marca de coches de lujo de gama alta probablemente se dirigirá a un público con mayores ingresos.
 
-
 (https://dphi-live.s3.amazonaws.com/media_uploads/image_96c50459c71244ac9725a5e3574ebb0d.png)
-
 
 
 **Análisis de redes sociales (SNA)**
@@ -70,11 +77,7 @@ El SNA es el mapeo y la medición de las relaciones entre personas, grupos, orga
 Por ejemplo, los sitios de redes sociales como Facebook utilizan el SNA para identificar y recomendar amigos potenciales basándose en los amigos de los amigos.
 
 
-
-
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_6024b8da3e94441b8dcbdcf6135593f5.png)
-
-
 
 
 
@@ -84,21 +87,7 @@ Por ejemplo, los sitios de redes sociales como Facebook utilizan el SNA para ide
 
 
 
-
-
-
-
-
-
-
-
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_dd58d33b216841af8abe9fcad4316da3.png)
-
-
-
-
-
-
 
 
 
@@ -110,6 +99,4 @@ El aprendizaje no supervisado se utiliza ampliamente para 2 cosas en el aprendiz
 2. **Reducción de la dimensionalidad** - técnicas que reducen el número de variables de entrada en un conjunto de datos.
 
 
-![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_b8f7710fc013461aaaeb8e28a9f14263.png)
-
-Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_b8f7710fc013461aaaeb8e28a9f14263.png)Las traducciones exactas de la imagen anterior se pueden encontrar a continuaciónLas traducciones exactas de la imagen anterior se pueden encontrar a continuación
