@@ -5,7 +5,7 @@
 * Un Caso de Uso
 * ¿Qué es el Clustering?
 * Aplicaciones de Clustering
-* Visión general de las Técnicas de Clustering
+* Visión General de las Técnicas de Clustering
 
 ## Clustering - Un Caso de Uso
 
@@ -63,8 +63,10 @@ Nota: El clustering es sólo un tipo de Algoritmo de Aprendizaje No Supervisado.
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_9c0e30f5eb5649b2b172c1ae926d986e.png)
 
----
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
 
+---
+Los datos son agrupados en 4 clusters
 ---
 
 
@@ -72,7 +74,7 @@ Nota: El clustering es sólo un tipo de Algoritmo de Aprendizaje No Supervisado.
 
 El clustering se utiliza en casi todos los campos.
 
-## El clustering ayuda a los vendedores a mejorar su base de clientes y a trabajar en las áreas objetivo. Ayuda a agrupar a las personas (según diferentes criterios como la voluntad, el poder adquisitivo, etc.) basándose en su similitud en muchos aspectos, relacionados con el producto considerado.
+* El clustering ayuda a los vendedores a mejorar su base de clientes y a trabajar en las áreas objetivo. Ayuda a agrupar a las personas (según diferentes criterios como la voluntad, el poder adquisitivo, etc.) basándose en su similitud en muchos aspectos, relacionados con el producto considerado.
 * El clustering ayuda a identificar grupos de viviendas en función de su valor, tipo y ubicación geográfica.
 * El clustering se utiliza para estudiar los terremotos. Basándose en las zonas afectadas por un terremoto en una región, el clustering puede ayudar a analizar el próximo lugar probable donde puede producirse un terremoto.
 
@@ -80,7 +82,7 @@ Hay muchas más aplicaciones del clustering, como la agrupación de documentos y
 
 A continuación se ofrece una lista detallada de aplicaciones. Tómese su tiempo para explorarla: [https://en.wikipedia.org/wiki/Cluster\_analysis#Applications](https://en.wikipedia.org/wiki/Cluster\_analysis#Applications)
 
-## Visión general de las Técnicas de Clustering
+## Visión General de las Técnicas de Clustering
 
 Puede realizar la agrupación utilizando muchos enfoques diferentes, tantos, de hecho, que hay categorías enteras de algoritmos de agrupación. Cada una de estas categorías tiene sus propios puntos fuertes y débiles. Esto significa que ciertos algoritmos de clustering resultarán en asignaciones de cluster más naturales dependiendo de los datos de entrada.
 
