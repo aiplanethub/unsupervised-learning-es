@@ -189,3 +189,132 @@ Si eliges los valores de k al azar, puede ser correcto o incorrecto. Si elige el
 2. Método de la silueta.
 
 Ahora, vamos a entender ambos conceptos uno por uno en detalle.
+
+
+### Método del codo
+
+El método del codo es uno de los más conocidos para seleccionar el valor correcto de k y aumentar el rendimiento del modelo. También es un poco ingenuo en su enfoque.
+
+Es un método empírico para encontrar el mejor valor de k. Recoge un rango de valores y toma el mejor entre ellos. Calcula la suma del cuadrado de los puntos y calcula la distancia media.
+
+¿Por qué se llama método del "codo"? Porque el gráfico trazado en este caso se parece a un codo. El valor de k que cae en la parte de la articulación es lo que consideramos el valor óptimo.
+
+
+
+
+
+
+
+
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_d61becc396be4407b5a789010c58e37b.png)
+
+
+
+
+
+
+
+
+
+
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_17e6e45c8c234a46b4f1657ae4887a0b.png)
+
+
+
+
+
+
+Como la gráfica empieza a enderezarse casi en 3, 3 es el valor óptimo de k según el método del codo.
+
+### Problemas con el método del codo
+
+Por desgracia, no siempre tenemos datos tan claramente agrupados. Esto significa que el codo puede no ser claro y nítido.
+
+
+
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_00077dc8d6c0496ca9a485320945828e.png)
+
+
+
+Para el conjunto de datos A, el codo es claro en k = 3. Sin embargo, esta elección es ambigua para el conjunto de datos B. Podríamos elegir que k sea 3 o 4.
+
+En este caso ambiguo, podemos utilizar el método de la silueta.
+
+### Método de la silueta
+
+El método de la silueta es algo diferente. Al igual que el método del codo, también toma un rango de valores de k y dibuja el gráfico de la silueta. Calcula el coeficiente de silueta de cada punto.
+
+Una mayor puntuación del coeficiente de silueta se relaciona con un modelo con clusters mejor definidos.
+
+Por ejemplo, en el primer gráfico, se puede ver que el cian tiene una puntuación de coeficiente de silueta más alta. También es el más segregado (mejor definido) que los otros dos clusters, el negro y el amarillo.
+
+
+
+
+
+
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_3b180f4c2e4d4613ba712a3ce7c81064.png)
+
+
+
+
+El valor de la silueta mide la similitud de un punto con su propio cluster (cohesión) en comparación con otros clusteres (separación).
+
+* El rango del valor de la silueta está entre +1 y -1.
+* Un valor alto es deseable e indica que el punto está situado en el cluster correcto.
+* Si muchos puntos tienen un valor de Silueta negativo, puede indicar que hemos creado demasiados o muy pocos clusters.
+
+Ya hemos mencionado que una Puntuación de Silueta alta es deseable. **La puntuación de la silueta alcanza su máximo global en el punto óptimo k.** Esto debería aparecer idealmente como un peak en el gráfico del valor de la silueta frente a k.
+
+Aquí hay un gráfico de este tipo:
+
+
+
+
+
+
+
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_5522fc93c8c3455ab80ba0b628b6a2ea.png)
+
+
+
+
+
+
+
+Hay un pico claro en k = 3. Por lo tanto, es óptimo.
+
+### Nota
+
+El método del codo es más bien una regla de decisión, mientras que la silueta es una métrica utilizada para la validación durante la agrupación. Por lo tanto, se puede utilizar en combinación con el método del codo.
+
+Por lo tanto, el Método del Codo y el Método de la Silueta no son alternativas entre sí para encontrar el K óptimo. Más bien son herramientas que deben utilizarse conjuntamente para tomar una decisión más segura.
+
+### Aplicación de los métodos del codo y de la silueta
+
+[Determinación de la K óptima para K-Medias](https://medium.com/analytics-vidhya/how-to-determine-the-optimal-k-for-k-means-708505d204eb)
+
+Este artículo explica en detalle tanto el método Elbow como la puntuación Silhouette.
+
+## Pros y contras de K-Medias
+
+### Pros:
+
+* Fácil de interpretar
+* Relativamente rápido
+* Escalable para grandes conjuntos de datos
+* Capaz de elegir las posiciones de los centroides iniciales de una manera inteligente que acelera la convergencia
+* Garantiza la convergencia
+
+### Contras:
+
+* El número de clusters debe ser predeterminado. El algoritmo K-Medias no es capaz de adivinar cuántos clusters existen en los datos. Determinar el número de clusters puede ser una tarea difícil.
+* Sólo puede trazar límites lineales. Si hay una estructura no lineal que separa los grupos en los datos, k-medias no será una buena opción.
+* Se ralentiza a medida que aumenta el número de muestras porque en cada paso, el algoritmo k-means accede a todos los puntos de datos y calcula las distancias.
+* Sensible a los valores atípicos
+
+## Notebook
+
+Implementación de K-Medias Clustering:
+
+[https://dphi.tech/notebooks/1325/gunnika/implementing-kmeans-clustering-algorithm](https://dphi.tech/notebooks/1325/gunnika/implementing-kmeans-clustering-algorithm)
