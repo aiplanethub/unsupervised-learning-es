@@ -45,8 +45,9 @@ La agrupación jerárquica implica la creación de clusters que tienen un orden 
 Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
 
 ---
-Aglomerativo
-Divisivo
+Título: Clustering Jerárquico
+Izquierda: Aglomerativo
+Derecha: Divisivo
 ---
 
 
