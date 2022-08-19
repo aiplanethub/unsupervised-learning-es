@@ -116,8 +116,8 @@ Estos algoritmos son ambos **no deterministas**, lo que significa que podrían p
 Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
 
 ---
-Puntos originales
-Clustering Particional
+Título imagen izquierda: Puntos originales
+Título imagen derecha: Clustering Particional
 ---
 
 Los métodos de clustering particional tienen varios puntos fuertes:
@@ -146,8 +146,8 @@ El clustering jerárquico determina la asignación de clusters construyendo una 
 Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
 
 ---
-Clustering Jerárquico Agromerativo
-Clustering Jerárquico Divisivo
+Título superior: Clustering Jerárquico Agromerativo
+Título inferior: Clustering Jerárquico Divisivo
 ---
 
 
@@ -179,9 +179,9 @@ Algunos ejemplos de algoritmos de clustering basados en la densidad son Agrupami
 Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
 
 ---
-Clustering basado en la densidad
-Cluster de forma esférica
-Cluster de forma arbitraria
+Título general: Clustering basado en la densidad
+Título figura izquierda: Cluster de forma esférica
+Título figura derecha: Cluster de forma arbitraria
 ---
 Los puntos fuertes de los métodos de clustering basados en la densidad son los siguientes:
 
@@ -199,6 +199,55 @@ Los puntos débiles de los métodos de clustering basados en la densidad son los
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_3e26676b26394673a5ad37f7315a4fe9.png)
 
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
+
+---
+Algoritmos de Clustering
+Clustering Jerárquicos
+Divisivo
+Aglomerativo
+Enlace-simple, enlace-completo, enlace-medio, enlace-centroide, enlace-ward
+Clustering Particional
+Basado en centros: K-Medias, K-Medoids, K-Centros, partición automática de estados para sistemas multicuerpo (APM)
+Basado en densidades: basado en vecindades, Agrupamiento Espacial basado en Densidad de Aplicaciones con Ruido (DBSCAN), peaks de densidad, basado en densidades robustas
+Basado en espectros: análisis de cluster de Perron (PCCA), análisis de cluster de Perron robusto (PCCA+)
+----
+
 ### Tipos de Algoritmos de Clustering - una categorización alternativa
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_eb8b3b2bafdc494c8fe5f457af68e6f5.png)
+
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
+
+---
+Algoritmos de Clustering:
+Basado en Particional
+K-Medias
+K-Medoids
+K-modas
+Partición alrededor de los medoides (PAM)
+Agrupación de grandes aplicaciones basada en la búsqueda aleatoria (CLARANS)
+Agrupación de grandes aplicaciones (CLARA)
+Agrupación difusa de C-medios (FCM)
+Basado en Jerárquias
+Reducción iterativa equilibrada y agrupación mediante jerarquías  (BIRCH)
+Agrupación mediante Representantes (CURE)
+Agrupación de robustos mediante enlaces (ROCK)
+Chameleon
+Efficient Clustering of Hierarchical Data for Network Traffic Analysis (Echidna)
+Basado en Densidades
+Agrupamiento Espacial basado en Densidad de Aplicaciones con Ruido (DBSCAN)
+Puntos de Orden para Identificar la Estructura de la Agrupación (OPTICS)
+Agrupación basada en la distribución de bases de datos espaciales grandes (DBCLASD)
+Clustering basado en densidades (DENCLUE)
+Basado en Red
+Cluster de Onda
+Enfoque basado en la red de información estadística (STING)
+Clustering in Quest (CLIQUE)
+Red Optima (OptiGrid)
+Basado en Modelo
+Maximización de Expectativas (EM)
+COWEB
+CLASSIT
+Mapa autoorganizado (SOMs)
+---
