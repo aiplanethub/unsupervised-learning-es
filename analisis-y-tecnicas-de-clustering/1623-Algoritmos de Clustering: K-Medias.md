@@ -24,6 +24,13 @@ K = número de clusters/grupos en los que se quieren dividir los datos.
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_5d627b3744404f83a4980a968370929c.png)
 
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
+
+---
+Figura 1: antes de aplicar K-Medias Clustering
+Figura 2: después de aplicar K-Medias Clustering
+---
+
 
 
 
@@ -35,7 +42,7 @@ Aquí tenemos algunos datos bidimensionales sin etiquetar que se ven como abajo.
 
 
 
-(https://dphi-live.s3.amazonaws.com/media_uploads/image_7c14e8c0aa13414e91c91facfa0a2169.png)
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_7c14e8c0aa13414e91c91facfa0a2169.png)
 
 
 
@@ -124,7 +131,16 @@ Así que repetimos todo este proceso varias veces, y aceptamos el resultado con 
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_b6ed76aace934b0485b9614f5c6a54d9.png)
 
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
 
+---
+Para k = 2, Se escogen k objetos como cluster inicial
+Asignar cada punto a un centro similar
+Identificar el centroide de cada cluster
+Reasignar los puntos (basados en la distancia mínima)
+Identificar los nuevos centroides de cada cluster
+Reasignar
+---
 
 
 
@@ -172,6 +188,14 @@ Le sugiero encarecidamente que pase algún tiempo con esta herramienta: [Visuali
 
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_0bea076aeb984af2b0d20b6bd7866f3a.png)
+
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
+
+---
+Reiniciar
+Agregar Centroide
+Reasignar puntos
+---
 
 
 
@@ -282,7 +306,7 @@ Aquí hay un gráfico de este tipo:
 
 
 
-Hay un pico claro en k = 3. Por lo tanto, es óptimo.
+Hay un peak claro en k = 3. Por lo tanto, es óptimo.
 
 ### Nota
 
