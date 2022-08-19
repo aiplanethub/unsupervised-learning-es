@@ -109,8 +109,8 @@ El aprendizaje no supervisado se utiliza ampliamente para 2 cosas en el aprendiz
 Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
 
 ---
-Clustering
+Título Gráfico Izquierdo: Clustering
 Los datos se dividen en clusters A, B y C
-Reducción de Dimensionalidad
+Título Gráfico Derecho: Reducción de Dimensionalidad
 Los datos se reducen de 2 dimensiones (2D) a 1 dimensión (1D)
 ---
