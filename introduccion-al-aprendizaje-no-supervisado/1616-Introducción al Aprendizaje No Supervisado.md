@@ -68,7 +68,7 @@ Por ejemplo, un fabricante de vehículos que venda una marca de coches de lujo d
 Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
 
 ---
-Proyecto de Ciencia de Datos - Segmentación de clientes
+Título: Proyecto de Ciencia de Datos - Segmentación de clientes
 Identificar el potencial de clientes base para vender el producto
 Implementar Algoritmos de Clustering para agrupar clientes base
 Venta de productos a los grupos identificados de clientes
@@ -84,6 +84,13 @@ Por ejemplo, los sitios de redes sociales como Facebook utilizan el SNA para ide
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_6024b8da3e94441b8dcbdcf6135593f5.png)
 
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
+
+---
+Color de línea: Año del primer co-autor
+Color de nodo: Número de citaciones
+Tamaño de nodo: Number de artículos 
+---
 
 
 * **Análisis de datos astronómicos**
