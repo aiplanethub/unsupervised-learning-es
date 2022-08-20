@@ -25,7 +25,7 @@
 
 
 
-
+[La versión traducida del vídeo en español puede encontrarse aquí](https://drive.google.com/file/d/1i5X6lTrctEpcmjZh6ATzmmDTryGxK3ij/view?usp=sharing)
 
 
 
