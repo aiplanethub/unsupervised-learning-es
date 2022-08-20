@@ -60,6 +60,12 @@ Para medir la similitud entre S y P, etiquetamos cada par de registros de los da
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_5a93044bd07d4bc8b31359d0abf18cbc.png)
 
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
+
+---
+Eje X: Etiquetas para P
+Eje Y: Etiquetas para S
+
 * TP: Número de pares de registros que están en el mismo cluster, tanto para S como para P.
 * FP: Número de pares de registros que están en el mismo cluster en S pero no en P.
 * FN: Número de pares de registros que están en el mismo cluster en P pero no en S.
@@ -78,6 +84,9 @@ Si la agrupación hubiera sido perfecta, esperaríamos que cada fila y cada colu
 
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_d8397bbf1b0f4e8a937902ac731aba4f.png)
+
+
+
 
 
 En enlace 'ward' por defecto, que trata de minimizar la varianza dentro de los clusters, ha hecho un buen trabajo con los cuatro géneros, aunque hay algunas fugas en el cluster B, es decir, en la 2ª columna, hay entradas en múltiples clusters y no sólo en uno.
@@ -118,7 +127,7 @@ En enlace-medio tiene problemas similares a el enlace-completo. Muchos puntos de
 
 
 
-Al igual que con el algoritmo HAC que utiliza el enlace 'ward', la agrupación K-Medias ha hecho un buen trabajo en la mayoría de los algoritmos, con algunas canciones de jazz y rap que se 'confunden' con el K-Pop.
+Al igual que con el algoritmo análisis jerárquico de cluster (HAC) que utiliza el enlace 'ward', la agrupación K-Medias ha hecho un buen trabajo en la mayoría de los algoritmos, con algunas canciones de jazz y rap que se 'confunden' con el K-Pop.
 
 ### Representación matricial
 
