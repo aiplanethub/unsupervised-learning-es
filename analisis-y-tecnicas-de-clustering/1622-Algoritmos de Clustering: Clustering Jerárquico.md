@@ -134,7 +134,7 @@ Enlance Centroide
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7xHsRkOdVwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+[La versión traducida del vídeo en español puede encontrarse aquí](https://drive.google.com/file/d/1BEv6g_SHEquI100vgNNUtLcIM0XpdgiW/view?usp=sharing)
 
 
 
