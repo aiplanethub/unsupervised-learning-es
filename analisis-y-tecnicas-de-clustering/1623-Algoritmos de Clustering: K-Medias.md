@@ -341,4 +341,4 @@ Este artículo explica en detalle tanto el método Elbow como la puntuación Sil
 
 Implementación de K-Medias Clustering:
 
-[https://dphi.tech/notebooks/1325/gunnika/implementing-kmeans-clustering-algorithm](https://dphi.tech/notebooks/1325/gunnika/implementing-kmeans-clustering-algorithm)
+[https://dphi.tech/notebooks/4382/felipe.cortes/implementando-el-algoritmo-de-clustering-k-medias](https://dphi.tech/notebooks/4382/felipe.cortes/implementando-el-algoritmo-de-clustering-k-medias)
