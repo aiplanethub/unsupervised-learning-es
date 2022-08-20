@@ -257,4 +257,4 @@ Enlance Centroide
 
 Introducción al Clustering Jerárquico: [https://dphi.tech/notebooks/4380/felipe.cortes/introduccion-a-clustering-jerarquico](https://dphi.tech/notebooks/4380/felipe.cortes/introduccion-a-clustering-jerarquico)
 
-Tipos de Algoritmos de Clustering Jerárquico: [https://dphi.tech/notebooks/1324/gunnika/types-of-hierarc](https://dphi.tech/notebooks/1324/gunnika/types-of-hierarchical-clustering)[hical-clustering](https://dphi.tech/notebooks/1324/gunnika/types-of-hierarchical-clustering)
+Tipos de Algoritmos de Clustering Jerárquico: [https://dphi.tech/notebooks/4381/felipe.cortes/tipos-de-clustering-jerarquico](https://dphi.tech/notebooks/4381/felipe.cortes/tipos-de-clustering-jerarquico)
