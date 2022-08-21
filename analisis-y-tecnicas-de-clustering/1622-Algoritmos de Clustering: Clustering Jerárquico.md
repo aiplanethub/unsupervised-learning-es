@@ -80,7 +80,7 @@ La distancia en sí o la unidad de medida puede ser la distancia euclidiana o la
 
 Hay una variedad de métricas posibles para establecer cómo se mide la distancia entre cada cluster, pero enumeraremos aquí las 4 más populares: enlace-simple, enlace-completo, enlace-medio y enlace-centroide.
 
-### Enlance-Simple
+### Enlace-Simple
 
 El enlace simple (vecino más cercano) es la distancia más corta entre un par de observaciones en dos clusters. Por ejemplo, la distancia entre los clusters "r" y "s" a la izquierda es igual a la longitud de la flecha entre sus dos puntos más cercanos.
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_a1fceb9d09e94aba91958336dafd4a07.png)
