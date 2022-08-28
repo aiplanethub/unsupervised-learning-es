@@ -209,7 +209,7 @@ Siéntase libre de saltarse la parte 'Desglosando la fórmula de actualización 
 
 Aunque se puede codificar SOM desde cero en Python, el paquete de elección para utilizar fácilmente los mapas autoorganizados en Python es minisom: [https://github.com/JustGlowing/minisom](https://github.com/JustGlowing/minisom)
 
-Es una implementación minimalista, basada en Numpy, de los mapas autoorganizativos y es muy fácil de usar. Se puede instalar usando: 'pip install minisom'
+Es una implementación minimalista, basada en Numpy, de los mapas autoorganizativos y es muy fácil de usar. Se puede instalar usando: `pip install minisom`
 
 
 
