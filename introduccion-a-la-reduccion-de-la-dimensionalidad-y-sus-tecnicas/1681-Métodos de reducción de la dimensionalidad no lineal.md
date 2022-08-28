@@ -174,7 +174,7 @@ t-SNE está presente como un paquete en la biblioteca manifold de sklearn. Una i
 
 ### t-SNE Debilidad
 
-***Reducción de la dimensionalidad para otros propósitos:** ex: BAD para la selección de características/extracción de características porque se basa en la distribución de probabilidad -> ¡sólo para la visualización!
+* **Reducción de la dimensionalidad para otros propósitos:** ex: BAD para la selección de características/extracción de características porque se basa en la distribución de probabilidad -> ¡sólo para la visualización!
 * **Maldición de la dimensionalidad intrínseca (sensible a la dimensión intrínseca):** La dimensión intrínseca es el número de variables que se necesitan para generar una buena aproximación de la señal. El rendimiento es malo si los datos de alta dimensión tienen realmente una dimensión intrínseca alta.
 * **No convexidad de la función de coste t-SNE:** hay que elegir varios parámetros de optimización.
 
