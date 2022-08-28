@@ -19,7 +19,7 @@ Algunos métodos populares de aprendizaje de colectores son
 2. **Mapa de características isométricas (Isomap):** Proyecta los datos a una dimensión inferior preservando la distancia geodésica (en lugar de la distancia euclidiana como en el MDS). La distancia geodésica es la distancia más corta entre dos puntos de una curva.
 3. **Incorporación localmente lineal (LLE):** Recupera la estructura global no lineal a partir de los ajustes lineales. Cada parche local de la variedad puede escribirse como una suma lineal y ponderada de sus vecinos si se dan suficientes datos.
 4. **Mapa de valores propios hessianos (HLLE):** Proyecta los datos a una dimensión inferior preservando la vecindad local como LLE pero utiliza el operador Hessiano (un operador matemático del que no necesitas preocuparte ahora) para lograr mejor este resultado y de ahí el nombre.
-5. **Incorporación espectral (mapas propios laplacianos) : Utiliza técnicas espectrales para realizar la reducción de la dimensionalidad mediante la asignación de entradas cercanas a salidas cercanas. Preserva la localidad en lugar de la linealidad local.
+5. **Incorporación espectral (mapas propios laplacianos):** Utiliza técnicas espectrales para realizar la reducción de la dimensionalidad mediante la asignación de entradas cercanas a salidas cercanas. Preserva la localidad en lugar de la linealidad local.
 6. **Incrustación estocástica de vecinos distribuida (t-SNE):** Calcula la probabilidad de que los pares de puntos de datos en el espacio de alta dimensión estén relacionados y luego elige una incrustación de baja dimensión que produzca una distribución similar.
 
 Kernel PCA, Isomap y muchos más.
