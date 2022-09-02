@@ -184,18 +184,17 @@ Filtro de Alta Correlación
 Random Forest
 Extracción de características hacia atrás
 Extracción de características hacia adelante
-
 Reducción de Dimensionalidad
 Basado en componentes/factores
 Análisis de Factores
 Análisis de Componentes Principales
 Análisis de Componentes Independientes
-
 Basado en Proyecciones
 ISOMAP
 Incrustación estocástica de vecinos distribuida en t (t-SNE)
 Aproximación y proyección uniformes de los manifiestos (UMAP) 
 ---
+
 Los diversos métodos utilizados para la reducción de la dimensionalidad incluyen, pero no se limitan a:
 
 1. Análisis de componentes principales (PCA)
