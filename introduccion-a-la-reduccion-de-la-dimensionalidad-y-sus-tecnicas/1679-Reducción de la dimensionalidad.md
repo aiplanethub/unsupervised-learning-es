@@ -30,7 +30,15 @@ Supongamos que estamos trabajando en la Clasificación de Iris. Primero crearemo
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_c942a0f832534bc88e9399fea517ddef.png)
 
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
 
+---
+Título gráfica: Visualización de características importantes
+Título Eje X: Puntuación de la importancia de características
+Título Eje Y: Características
+Etiquetas Eje Y: Ancho petalo, largo petalo, largo sépalos, ancho sépalo
+
+---
 
 * Las puntuaciones de importancia de las características nos indican que la anchura y la longitud de los pétalos son las dos características más importantes. El resto tiene una puntuación de importancia mucho menor.
 * Seleccionaremos estas dos características transformando nuestro conjunto de datos para que sólo contenga estas dos características.
@@ -54,6 +62,11 @@ La extracción de rasgos es el nombre que reciben los métodos que **seleccionan
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_40c45ead07c9428b9dba41f49aa14708.png)
 
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
+---
+Imagen izquierda: Extracción de características
+Imagen derecha: Selección de características
+---
 
 
 
@@ -92,7 +105,7 @@ Hay algo que se conoce como "La Maldición de la dimensión". En el aprendizaje 
 
 
 
-(https://dphi-live.s3.amazonaws.com/media_uploads/image_9a9cb3ade0a943a2a7f82019949afa96.png)
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_9a9cb3ade0a943a2a7f82019949afa96.png)
 
 
 
@@ -125,7 +138,13 @@ La maldición de la dimensión se refiere a todos los problemas que surgen al tr
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_2f70eb33799c477a9b363fd2cb3be348.png)
 
 
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
 
+---
+Título Eje X: Dimensión (numero de características)
+Titulo Eje Y: Rendimiento del clasificador
+Línea Vertical: Número óptimo de características 
+---
 
 
 
@@ -154,6 +173,29 @@ Aquí es donde entran en juego los algoritmos de reducción de la dimensionalida
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_ed8c08cc062f453d9e9556f97ae4c5b0.png)
 
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
+
+---
+Técnicas de reducción de dimensionalidad
+Selección de características
+Ratio de valores periodos
+Filtro de baja Varianza
+Filtro de Alta Correlación
+Random Forest
+Extracción de características hacia atrás
+Extracción de características hacia adelante
+
+Reducción de Dimensionalidad
+Basado en componentes/factores
+Análisis de Factores
+Análisis de Componentes Principales
+Análisis de Componentes Independientes
+
+Basado en Proyecciones
+ISOMAP
+Incrustación estocástica de vecinos distribuida en t (t-SNE)
+Aproximación y proyección uniformes de los manifiestos (UMAP) 
+---
 Los diversos métodos utilizados para la reducción de la dimensionalidad incluyen, pero no se limitan a:
 
 1. Análisis de componentes principales (PCA)
