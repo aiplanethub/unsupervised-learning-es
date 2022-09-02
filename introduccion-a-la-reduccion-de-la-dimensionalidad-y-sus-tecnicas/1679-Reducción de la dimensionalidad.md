@@ -86,7 +86,7 @@ Imagen derecha: Selección de características
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wvsE8jm1GzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+[La versión traducida del vídeo en español puede encontrarse aquí](https://drive.google.com/file/d/1aeP_1CH_3IxmzKa8-PvPqimyNMLwcp0j/view?usp=sharing)
 
 
 
