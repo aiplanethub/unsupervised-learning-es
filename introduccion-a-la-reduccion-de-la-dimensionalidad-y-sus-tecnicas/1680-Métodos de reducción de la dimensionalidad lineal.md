@@ -254,7 +254,12 @@ La motivación de ICA sería **tomar el conjunto original de características e 
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_bd68e36e4d124bc2b739a46c63bc66ad.png)
 
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
 
+---
+Importar el algoritmo de Análisis de Componentes Independientes
+Inicializar el algoritmo y definir el numero de componentes principales
+Ajustar y transformar el modelo a datos. Devolverá una lista con los componentes independientes
 
 
 
@@ -299,3 +304,10 @@ ICA no puede descubrir las relaciones no lineales del conjunto de datos. ICA no 
 
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_134f377882234a4384aacc8b7eec097a.png)
+
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
+
+---
+Izquierda: Vector ortogonal (a 90 grados uno del otro)
+Derecha: Vectores no ortognales (no a 90 grados uno del otro)
+---
