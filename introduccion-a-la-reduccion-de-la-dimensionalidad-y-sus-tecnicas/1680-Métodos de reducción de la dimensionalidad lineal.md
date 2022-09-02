@@ -76,6 +76,11 @@ He aquí un breve resumen no técnico del funcionamiento de PCA:
 
 ![Imagen.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_afbb10f76eda4fd39c7874faadee4275.png)
 
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
+
+---
+Título: Set de datos original
+---
 
 
 
@@ -98,6 +103,13 @@ He aquí un breve resumen no técnico del funcionamiento de PCA:
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_334ce53f787b42858fa423c1bfcb408c.png)
 
 
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
+
+---
+Título: Salida del Análisis de componentes principales
+Eje X: Componente Principal 1
+Eje Y: Componente Princiapl 2
+---
 
 
 
@@ -165,7 +177,16 @@ Más concretamente, la razón por la que es crítico realizar la estandarizació
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_2e61a49fd0984eacb403094b2f64a000.png)
 
 
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
 
+---
+Importar el algoritmo de PCA
+Inicializar el algoritmo y definir el número de componentes principales
+Ajustar el modelo a los datos
+Obtener la lista. decomponentes principales
+Transformar el modelo a datos
+Obtener los valores propios
+---
 
 
 
