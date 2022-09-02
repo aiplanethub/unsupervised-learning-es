@@ -28,7 +28,7 @@ Supongamos que estamos trabajando en la Clasificación de Iris. Primero crearemo
 
 
 
-(https://dphi-live.s3.amazonaws.com/media_uploads/image_c942a0f832534bc88e9399fea517ddef.png)
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_c942a0f832534bc88e9399fea517ddef.png)
 
 
 
