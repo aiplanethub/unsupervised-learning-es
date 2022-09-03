@@ -108,7 +108,7 @@ Las traducciones exactas de la imagen anterior se pueden encontrar a continuaci�
 ---
 Título: Salida del Análisis de componentes principales
 Eje X: Componente Principal 1
-Eje Y: Componente Princiapl 2
+Eje Y: Componente Principal 2
 ---
 
 
