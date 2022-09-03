@@ -29,7 +29,14 @@ Un autocodificador se compone de dos partes :
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_31821184c4704ca9984c38a85e5ec41f.png)
 
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
 
+---
+Entrada / Salida
+Código
+Codificador
+Decodificador
+---
 
 
 
@@ -49,7 +56,12 @@ Un autocodificador se compone de dos partes :
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_65260c1901344a6f91756c6c79883704.png)
 
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
 
+---
+Imágenes originales
+Imágenes reconstruidas de un auto codificador
+---
 
 
 
