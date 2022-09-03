@@ -155,7 +155,7 @@ Si no desea entrar en los detalles a partir de ahora, no dude en saltárselo :)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FgakZw6K1QQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
+[La versión traducida del vídeo en español puede encontrarse aquí](https://drive.google.com/file/d/1Fy0coJpLv2DS2mXC9MN6TYZJBxtK2Nk0/view?usp=sharing)
 
 
 
@@ -225,7 +225,7 @@ La motivación de ICA sería **tomar el conjunto original de características e 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2WY7wCghSVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
+[La versión traducida del vídeo en español puede encontrarse aquí](https://drive.google.com/file/d/1OC6CGIePwnip6gr3Lw3l7eqw9vThFfY2/view?usp=sharing)
 
 
 
@@ -239,7 +239,7 @@ La motivación de ICA sería **tomar el conjunto original de características e 
 
 
 
-
+[La versión traducida del vídeo en español puede encontrarse aquí](https://drive.google.com/file/d/1yZW2Vl5oW-ZLLkW7BHP9jxG3CJKaey_g/view?usp=sharing)
 
 
 
@@ -260,7 +260,7 @@ Las traducciones exactas de la imagen anterior se pueden encontrar a continuaci�
 Importar el algoritmo de Análisis de Componentes Independientes
 Inicializar el algoritmo y definir el numero de componentes principales
 Ajustar y transformar el modelo a datos. Devolverá una lista con los componentes independientes
-
+---
 
 
 
