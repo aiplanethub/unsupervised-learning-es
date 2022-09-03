@@ -220,4 +220,4 @@ Es una implementación minimalista, basada en Numpy, de los mapas autoorganizati
 
 ### Cuaderno de notas
 
-[Implementación de varias técnicas de reducción de la dimensionalidad lineal y no lineal](https://dphi.tech/notebooks/1326/gunnika/comparison-of-various-dimensionality-reduction-techniques-in-python
+[Implementación de varias técnicas de reducción de la dimensionalidad lineal y no lineal](https://dphi.tech/notebooks/1326/gunnika/comparison-of-various-dimensionality-reduction-techniques-in-python)
