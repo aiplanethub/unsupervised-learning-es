@@ -93,7 +93,7 @@ Puedes notar que las imágenes reconstruidas son un poco borrosas y no tan detal
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rdpbnd0pCiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
+[La versión traducida del vídeo en español puede encontrarse aquí](https://drive.google.com/file/d/1V3i3c48IHCyjVTZQEEFDN-WUCgcXLuMF/view?usp=sharing)
 
 
 
