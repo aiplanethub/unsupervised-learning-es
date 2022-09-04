@@ -147,7 +147,7 @@ El t-SNE básicamente disminuye la multidimensionalidad a dimensiones 2d o 3d de
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NEaUSP4YerM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[La versión traducida del vídeo en español puede encontrarse aquí](https://drive.google.com/file/d/1Fy0coJpLv2DS2mXC9MN6TYZJBxtK2Nk0/view?usp=sharing)
+[La versión traducida del vídeo en español puede encontrarse aquí](https://drive.google.com/file/d/1NgMBFV4Lza6V1JVhTgf7U0HJum-4cF2Z/view?usp=sharing)
 
 
 
@@ -200,7 +200,7 @@ Siéntase libre de saltarse la parte 'Desglosando la fórmula de actualización 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g8O6e9C_CfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[La versión traducida del vídeo en español puede encontrarse aquí](https://drive.google.com/file/d/1Fy0coJpLv2DS2mXC9MN6TYZJBxtK2Nk0/view?usp=sharing)
+[La versión traducida del vídeo en español puede encontrarse aquí](https://drive.google.com/file/d/10090V5jIc1r3VsebthLglcL_9HsYXcR0/view?usp=sharing)
 
 
 
@@ -220,4 +220,4 @@ Es una implementación minimalista, basada en Numpy, de los mapas autoorganizati
 
 ### Cuaderno de notas
 
-[Implementación de varias técnicas de reducción de la dimensionalidad lineal y no lineal](https://dphi.tech/notebooks/1326/gunnika/comparison-of-various-dimensionality-reduction-techniques-in-python)
+[Implementación de varias técnicas de reducción de la dimensionalidad lineal y no lineal](https://dphi.tech/notebooks/4422/felipe.cortes/comparacion-de-varias-tecnicas-de-reduccion-de-la-dimensionalidad-en-python)
